@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="10.2.0"/>
+	<deviceVariant value="Cortex M.CC2652RB1F"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="GNU_9.2.1:Linaro"/>
+	<isElfFormat value="true"/>
+	<connection value="common/targetdb/connections/TIXDS110_Connection.xml"/>
+	<rts value=""/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<ignoreDefaultCCSSettings value="true"/>
+	<templateProperties value="id=sleepy_button_app.projectspec.sleepy_button_app,type=rtsc,xdcToolsVersion=3_62_00_08,target=gnu.targets.arm.M4F,platform=ti.platforms.simplelink:CC2652RB1F,buildProfile=release,isHybrid=true,configuroOptions= --compileOptions &quot;${COMPILER_FLAGS} -std=c99 &quot;"/>
+	<origin value="/home/sascha/ti/simplelink_cc13x2_26x2_sdk_5_10_00_48/examples/rtos/LP_CC2652RB/thread/doorlock_oad_secure/tirtos/gcc/doorlock_oad_secure_LP_CC2652RB_tirtos_gcc.projectspec"/>
+	<filesToOpen value=""/>
+	<isTargetManual value="false"/>
+</projectOptions>

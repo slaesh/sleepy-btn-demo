@@ -1,0 +1,1 @@
+copied from /home/sascha/ti/simplelink_cc13x2_26x2_sdk_5_10_00_48/source/ti/common/cc26xx/oad/

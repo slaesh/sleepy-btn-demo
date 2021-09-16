@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="10.2.0"/>
+	<deviceVariant value="Cortex M.CC2652RB1F"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="20.2.5.LTS"/>
+	<isElfFormat value="true"/>
+	<connection value="common/targetdb/connections/TIXDS110_Connection.xml"/>
+	<linkerCommandFile value="bim_cc26x2_cc13x2.cmd"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=sleepy_button_bim.projectspec.sleepy_button_bim,products=,xdcToolsVersion=3.62.00.08,target=ti.targets.arm.elf.M4F,platform=ti.platforms.simplelink:CC2652R1F,buildProfile=Release_unsecure,isHybrid=true,configuroOptions=--compileOptions ${COMPILER_FLAGS}"/>
+	<origin value="/home/sascha/ti/simplelink_cc13x2_26x2_sdk_5_10_00_48/examples/nortos/LP_CC2652RB/bim/bim_offchip/ccs/bim_offchip_LP_CC2652RB_nortos_ccs.projectspec"/>
+	<filesToOpen value=""/>
+	<isTargetManual value="false"/>
+</projectOptions>
